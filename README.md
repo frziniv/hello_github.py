@@ -1,2 +1,4 @@
 # hello_github.py
-feat: Add initial Python greeting script
+# A simple script to greet the GitHub world.
+print("Hello, GitHub!")
+print("This line was added in an update.")
